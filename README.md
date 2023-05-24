@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for some good open-source projects
 - 💬 Ask me about my coding journey
-- 📫 How to reach me: anthonyvleporte@gmail.com
+- 📫 Reach me at: anthonyvleporte@gmail.com
