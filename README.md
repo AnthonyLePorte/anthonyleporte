@@ -2,8 +2,8 @@
 ---
 [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyleporte&theme=transparent)](https://github.com/anthonyleporte/github-readme-stats)
 ---
-- 🔭 I’m currently working on The Odin Project
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for some good open-source projects
+- 🔭 Currently working on The Odin Project
+- 🌱 Actively learning JavaScript
+- 🤔 Searching for some good open-source projects
 - 💬 Ask me about my coding journey
 - 📫 Reach me at: anthonyvleporte@gmail.com
